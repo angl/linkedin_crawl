@@ -1,0 +1,14 @@
+{
+  "name": "linkedin_crawl",
+  "version": "1.0.0",
+  "description": "Crawl linkedin friend's friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ang Li",
+  "license": "MIT",
+  "dependencies": {
+    "webdriverio": "^4.10.1"
+  }
+}
